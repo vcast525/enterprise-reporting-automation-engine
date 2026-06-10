@@ -1,0 +1,15 @@
+2026-06-09 15:34:00,047 - INFO - Pipeline execution started.
+2026-06-09 15:34:00,119 - INFO - Source files loaded successfully.
+2026-06-09 15:34:00,123 - INFO - Validation completed successfully.
+2026-06-09 15:34:00,144 - INFO - Transformation completed. Reporting dataset shape: (50, 23)
+2026-06-09 15:34:00,170 - INFO - Executive report generated successfully.
+2026-06-09 15:34:00,191 - INFO - Processed dataset saved successfully: /Users/vincent/Documents/PyCharmProjects/Enterprise Reporting Automation Engine/data/processed/control_reporting_dataset.xlsx
+2026-06-09 15:34:00,191 - INFO - Pipeline completed successfully.
+2026-06-09 16:36:28,062 - INFO - Pipeline execution started.
+2026-06-09 16:36:28,190 - INFO - Source files loaded successfully.
+2026-06-09 16:36:28,194 - INFO - Validation completed successfully.
+2026-06-09 16:36:28,216 - INFO - Transformation completed. Reporting dataset shape: (50, 23)
+2026-06-09 16:36:28,242 - INFO - Executive report generated successfully.
+2026-06-09 16:36:28,254 - INFO - Exception report generated successfully.
+2026-06-09 16:36:28,275 - INFO - Processed dataset saved successfully: /Users/vincent/Documents/PyCharmProjects/Enterprise Reporting Automation Engine/data/processed/Control_Reporting_Dataset.xlsx
+2026-06-09 16:36:28,275 - INFO - Pipeline completed successfully.
